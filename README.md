@@ -449,6 +449,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 ## 🔒 <a name="security"></a>Security
 
+- [true402](https://github.com/true402/mcp-server) - x402 pay-per-call marketplace over MCP (USDC on Base, no account or API key): token rug/honeypot safety via a real on-chain buy/sell simulation (state-override eth_call), plus liquidity, ownership and deployer checks.
 > Tools for security needs. Enables securing code, finding vulnerabilies.
 
 - <img src="https://semgrep.dev/favicon.ico" height="14"/> [Semgrep](https://github.com/semgrep/mcp) - A MCP server for using [Semgrep](https://github.com/semgrep/semgrep) to scan code for security vulnerabilities.
